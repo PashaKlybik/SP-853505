@@ -1,0 +1,4 @@
+﻿  Lab10.cpp
+D:\SP\Labs\Lab10\Lab10.cpp(182,3): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\SP\Labs\Lab10\Lab10.cpp(147,7): warning C4101: 'rect': unreferenced local variable
+  Lab10.vcxproj -> D:\SP\Labs\Debug\Lab10.exe
