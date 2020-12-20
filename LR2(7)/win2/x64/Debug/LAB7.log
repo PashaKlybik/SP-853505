@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LAB7.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  win2.cpp
+C:\Users\Мария\Downloads\SP-853503-main\lab2\LAB7\win2.cpp(32,15): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Мария\Downloads\SP-853503-main\lab2\LAB7\win2.cpp(50,18): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Мария\Downloads\SP-853503-main\lab2\LAB7\win2.cpp(63,18): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Мария\Downloads\SP-853503-main\lab2\LAB7\win2.cpp(202,38): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+  LAB7.vcxproj -> C:\Users\Мария\Downloads\SP-853503-main\lab2\x64\Debug\win2.exe
