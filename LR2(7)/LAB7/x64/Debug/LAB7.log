@@ -1,0 +1,6 @@
+﻿  win2.cpp
+C:\SP\LR2(7)\LAB7\win2.cpp(32,15): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\SP\LR2(7)\LAB7\win2.cpp(50,18): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\SP\LR2(7)\LAB7\win2.cpp(63,18): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\SP\LR2(7)\LAB7\win2.cpp(202,38): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+  LAB7.vcxproj -> C:\SP\LR2(7)\x64\Debug\win2.exe
