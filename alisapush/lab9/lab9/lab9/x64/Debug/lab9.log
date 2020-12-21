@@ -1,0 +1,5 @@
+﻿  lab9.cpp
+d:\3 курс\сп\lab9\lab9\lab9\lab9.cpp(29): warning C4091: typedef : пропускается слева от "_step", когда ни одна переменная не объявлена
+d:\3 курс\сп\lab9\lab9\lab9\lab9.cpp(98): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+d:\3 курс\сп\lab9\lab9\lab9\lab9.cpp(232): warning C4101: hCurBrush: неиспользованная локальная переменная
+  lab9.vcxproj -> D:\3 курс\сп\lab9\lab9\x64\Debug\lab9.exe
