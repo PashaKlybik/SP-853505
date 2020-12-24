@@ -1,0 +1,4 @@
+﻿  Project6.0.cpp
+D:\СП\Project6.0\Project6.0.cpp(103,57): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\СП\Project6.0\Project6.0.cpp(168,13): warning C4101: wmId: неиспользованная локальная переменная
+  Project6.0.vcxproj -> D:\СП\Project6.0\Debug\Project6.0.exe
