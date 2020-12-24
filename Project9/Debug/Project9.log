@@ -1,0 +1,3 @@
+﻿  Project9.cpp
+D:\СП\Project9\Project9.cpp(193,39): error C2440: инициализация: невозможно преобразовать "const wchar_t [9]" в "LPTSTR"
+D:\СП\Project9\Project9.cpp(193,21): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
